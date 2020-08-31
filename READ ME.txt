@@ -1,6 +1,10 @@
 Developed by Kobe Runnels in C for Windows 
+June 9th 2020
 
 A game system demo for combat situations in a
 roleplaying game, it's not finished but
 there are multiple options for adding
 characters to the party and such.
+
+Make sure to unzip the music file when running the battle program
+as it requires the sound files to run properly.
