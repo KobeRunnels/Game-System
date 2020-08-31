@@ -1,0 +1,6 @@
+Developed by Kobe Runnels in C for Windows 
+
+A game system demo for combat situations in a
+roleplaying game, it's not finished but
+there are multiple options for adding
+characters to the party and such.
